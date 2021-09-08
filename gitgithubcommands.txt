@@ -26,11 +26,11 @@ Creating a repo locally then pushing to GitHub:
 1. cd into place we want to create the repo
 2. git init creates an empty repo locally
 3. we do similar steps to the second section above via staging & committing
-4. Go to GitHub and create the repo, collecting the SSH/HTTPS/CLI
+4. Go to GitHub and create the repo, collecting the SSH/HTTPS
 5. git remote add origin URL < connects to github repo
 6. git remote < tells us the repo on github we're pushing to
 6. git remove -v < verbose of above
-7. git push origin main < allows us to push the repo
+7. git push origin main < allows us to push the repo [main =/= master]
 
 /// Pulling changes from a repo
 
