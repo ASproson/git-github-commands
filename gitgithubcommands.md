@@ -15,12 +15,12 @@ HTTPs = `git clone URL`
 
 ## Changing, committing, and pushing files:
 
-1. `git add file.txt < adds to staging area`
-1. `git add . < adds all files to staging area`
+1. `git add file.txt` *< adds to staging area*
+1. `git add .` *< adds all files to staging area*
 2. `git commit -m "Commit message"`
-3. `git remote < tells us the repo on github we're pushing to`
-3. `git remove -v < verbose of above`
-4. `git push origin main < allows us to push to the repo`
+3. `git remote` *< tells us the repo on github we're pushing to*
+3. `git remove -v` < verbose of above*
+4. `git push origin main` *< allows us to push to the repo*
        *where main is name of branch*
 
 ---
