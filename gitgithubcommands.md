@@ -36,6 +36,8 @@ HTTPs = `git clone URL`
 6. `git remove -v` *< verbose of above*
 7. `git push origin main` *< allows us to push the repo [main =/= master]*
 
+---
+
 ## Pulling changes from a repo
 
 1. `git pull origin master` *< any changes made to main is pulled down locally*
