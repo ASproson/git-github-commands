@@ -19,7 +19,7 @@ HTTPs = `git clone URL`
 1. `git add .` *< adds all files to staging area*
 2. `git commit -m "Commit message"`
 3. `git remote` *< tells us the repo on github we're pushing to*
-3. `git remove -v` < verbose of above*
+3. `git remove -v` *< verbose of above*
 4. `git push origin main` *< allows us to push to the repo*
        *where main is name of branch*
 
@@ -31,7 +31,7 @@ HTTPs = `git clone URL`
 2. `git init` creates an empty repo locally
 3. we do similar steps to the second section above via staging & committing
 4. Go to GitHub and create the repo (making sure not to initialise) , collecting the SSH/HTTPS
-5. `git remote add origin URL` *< connects to github repo
+5. `git remote add origin URL` *< connects to github repo*
 6. `git remote` *< tells us the repo on github we're pushing to*
 6. `git remove -v` *< verbose of above*
 7. `git push origin main` *< allows us to push the repo [main =/= master]*
